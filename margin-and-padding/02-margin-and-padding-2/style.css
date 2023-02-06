@@ -6,7 +6,8 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 40px;
+  border: 8px;
+  border-color: rgb(36, 211, 65);
 }
 
 .title {

@@ -12,7 +12,6 @@ body {
 
 .title {
   background: #6ec3fc;
-  margin-top: 15px;
   font-size: 16px;
   padding: 20px;
 }
@@ -33,6 +32,7 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  margin: 0 auto;
   display: block;
   padding: 8px 24px;
 }
